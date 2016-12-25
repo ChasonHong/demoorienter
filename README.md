@@ -1,2 +1,4 @@
-# demoorienter
-JavaScript 陀螺仪检测设备方向(重力感应)
+orienter
+============
+
+横竖屏重力感应的易用组件  
